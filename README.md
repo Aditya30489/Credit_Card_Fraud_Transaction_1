@@ -1,6 +1,6 @@
 Dataset downloaded from https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
 
-**Features are : **
+**Features are :**
 
 **id**: Unique identifier for each transaction
 
